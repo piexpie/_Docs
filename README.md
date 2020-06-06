@@ -29,3 +29,13 @@ There are some commands to move around, change directories:
 This made me a new directory/folder and I can open it
 
 ```cd MyNewDirectory```
+
+## Administrator Rights
+
+```sudo su``` To gain root access and rights to install packages on your system.
+
+## Installing Packages
+
+```dpkg -i PackageName.deb ``` If you have a .deb downloaded package.
+
+```apt install PackageName``` APT is the online repository of packages from where you can get a number of Linux Applications.
