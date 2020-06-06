@@ -36,6 +36,6 @@ This made me a new directory/folder and I can open it
 
 ## Installing Packages
 
-```dpkg -i PackageName.deb ``` If you have a .deb downloaded package.
+```dpkg -i PackageName.deb``` If you have a .deb downloaded package.
 
 ```apt install PackageName``` APT is the online repository of packages from where you can get a number of Linux Applications.
