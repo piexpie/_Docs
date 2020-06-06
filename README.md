@@ -34,8 +34,13 @@ This made me a new directory/folder and I can open it
 
 ```sudo su``` To gain root access and rights to install packages on your system.
 
+Linux is more secure in the sense that files are write protected and can only be altered after gaining root access.
+
 ## Installing Packages
 
 ```dpkg -i PackageName.deb``` If you have a .deb downloaded package.
 
+### Package Managers are App Stores to get latest software
 ```apt install PackageName``` APT is the online repository of packages from where you can get a number of Linux Applications.
+
+```snap install PackageName``` More recent, this is a packagemanager for Ubuntu and Ubuntu based distributions.
