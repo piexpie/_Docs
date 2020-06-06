@@ -11,7 +11,7 @@ Everything is a file in Linux.
 ```/home/<username>```
 
 This is where you begin. It can look like this:
-    John@IBM_PC:~$
+```John@IBM_PC:~$```
 
 There are some commands to move around, change directories:
 
