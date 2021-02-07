@@ -44,3 +44,12 @@ Linux is more secure in the sense that files are write protected and can only be
 ```apt install PackageName``` APT is the online repository of packages from where you can get a number of Linux Applications.
 
 ```snap install PackageName``` More recent, this is a packagemanager for Ubuntu and Ubuntu based distributions.
+
+## Git push
+```
+git add .
+git commit -m "commit message"
+git add remote remote_name
+git push
+```
+
